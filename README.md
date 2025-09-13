@@ -1,7 +1,7 @@
 # Ecology Data Analysis Project
 
 This repository contains Python scripts and data used for the study titled  
-**“[Insert Your Paper Title Here]”** published in *Ecology*.
+**“Spatiotemporal Heterogeneity and the Maintenance of Species Coexistence”**.
 
 ---
 
